@@ -67,8 +67,8 @@ This task improved my understanding of **password security**, **authentication t
 
 ### 📁 Repository Contents  
 - `README.md` – Task documentation and report  
-- `screenshots/` – Password strength test results (if added)  
-- `password_test_results.txt` – Optional notes or test logs  
+- `screenshots/` – Password strength test results 
+  
 
 ---
 
