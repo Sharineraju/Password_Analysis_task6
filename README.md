@@ -26,7 +26,7 @@ The goal of this task is to understand what makes a password strong, how passwor
 | Password | Strength (%) | Rating | Estimated Time to Crack | Feedback |
 |-----------|---------------|---------|--------------------------|-----------|
 | `password123` | 43% | Weak | Few seconds | Too common, lacks special characters |
-| `Pa$$word2025` | 100% | Strong | Hundreds of years | Strong mix but predictable pattern |
+| `MyPass#25` | 80% | Strong | Hundreds of years | Strong mix but predictable pattern |
 | `G!tH#b_S3cur3@Task6` | 100% | Very Strong | Millions of years | Excellent randomness and complexity |
 | `CyberDogsRun@Night2025` | 100% | Very Strong | Millions of years | Strong passphrase, long and unpredictable |
 
